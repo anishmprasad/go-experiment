@@ -4,11 +4,11 @@
 
 ### Operations
 
-| Operation | Command      | Description |
-| --------- | ------------ | ----------- |
+| Operation | Command      | Description                                    |
+| --------- | ------------ | ---------------------------------------------- |
 | **serve** | `fresh *`    | Runs the app and restarts if a change happened |
-| **run**   | `go run *`   | Runs the app |
-| **build** | `go build *` | Builds the app. |
+| **run**   | `go run *`   | Runs the app                                   |
+| **build** | `go build *` | Builds the app.                                |
 
 ## Librarys
 
