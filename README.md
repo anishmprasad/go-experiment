@@ -1,4 +1,4 @@
-# Boilerplate for REST API in go
+# API in go
 
 ## Get started
 
